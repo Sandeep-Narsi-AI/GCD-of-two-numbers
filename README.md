@@ -38,7 +38,7 @@ def gcd():
 ![gcd of two number](gcd.png)
 
 ### Solution:
-![gcd of two number](gcd1.png)
+![gcd of two number](SSE1.png)
 
 
 
